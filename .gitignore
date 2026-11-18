@@ -1,0 +1,7 @@
+# Secrets Docker
+/.env
+
+# Éditeurs et système
+.idea/
+.vscode/
+.DS_Store
